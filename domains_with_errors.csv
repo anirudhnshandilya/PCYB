@@ -1,0 +1,168 @@
+error,website,category
+Socket error: [Errno 11001] getaddrinfo failed,content.ad,Advertising
+SSL error: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000),bankofamerica.com,Banking
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",hsbc.com,Banking
+Socket error: [Errno 11001] getaddrinfo failed,mufg.jp,Banking
+Socket error: [Errno 11001] getaddrinfo failed,sumitrust.co.jp,Banking
+Socket error: [Errno 11001] getaddrinfo failed,smbc.co.jp,Banking
+Socket error: [Errno 11001] getaddrinfo failed,bankofchina.com,Banking
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",rbc.com,Banking
+Socket error: [Errno 11001] getaddrinfo failed,root-servers.net,Technology
+Socket error: [Errno 11001] getaddrinfo failed,tiktokcdn.com,Content Servers;Social Networks
+Socket error: [WinError 10061] No connection could be made because the target machine actively refused it,amazonaws.com,Technology
+"SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'googlevideo.com'. (_ssl.c:1000)",googlevideo.com,Search Engines;Video Streaming
+Socket error: [Errno 11001] getaddrinfo failed,apple-dns.net,Content Servers
+Socket error: [Errno 11001] getaddrinfo failed,akadns.net,Content Servers
+Socket error: [Errno 11001] getaddrinfo failed,akamai.net,Content Servers
+Socket error: [Errno 11001] getaddrinfo failed,gvt2.com,Content Servers
+Socket error: [Errno 11001] getaddrinfo failed,cloudfront.net,Content Servers;Science;Technology
+Socket error: [Errno 11001] getaddrinfo failed,akamaiedge.net,Content Servers
+Socket error: [Errno 11001] getaddrinfo failed,cdn77.org,Content Servers
+Socket error: [Errno 11001] getaddrinfo failed,gvt1.com,Content Servers
+Socket error: [Errno 11001] getaddrinfo failed,ytimg.com,Content Servers
+Socket error: [Errno 11001] getaddrinfo failed,aaplimg.com,Information Technology;Content Servers;Technology
+Socket error: [Errno 11001] getaddrinfo failed,cdninstagram.com,Content Servers
+Socket error: [Errno 11001] getaddrinfo failed,bytefcdn-oversea.com,Content Servers
+Socket error: [Errno 11001] getaddrinfo failed,ttlivecdn.com,Content Servers
+Socket error: [Errno 11001] getaddrinfo failed,msftncsi.com,Content Servers
+Socket error: [Errno 11001] getaddrinfo failed,trafficmanager.net,Information Technology;Content Servers
+Socket error: [Errno 11001] getaddrinfo failed,ggpht.com,Content Servers
+Socket error: [Errno 11001] getaddrinfo failed,rocket-cdn.com,Content Servers
+Socket error: [Errno 11001] getaddrinfo failed,appsflyersdk.com,Content Servers;APIs
+Socket error: [Errno 11001] getaddrinfo failed,bytefcdn-ttpeu.com,Content Servers
+Socket error: [Errno 11001] getaddrinfo failed,microsoftonline.com,Technology
+"SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'windows.net'. (_ssl.c:1000)",windows.net,Technology
+Socket error: [Errno 11001] getaddrinfo failed,3gppnetwork.org,Content Servers
+Socket error: [Errno 11001] getaddrinfo failed,office.net,Content Servers
+Socket error: [Errno 11001] getaddrinfo failed,tiktokcdn-us.com,Content Servers
+Socket error: [Errno 11001] getaddrinfo failed,cdn-apple.com,Content Servers
+Socket error: [Errno 11001] getaddrinfo failed,windowsupdate.com,Information Technology;Business
+Socket error: [Errno 11001] getaddrinfo failed,rbxcdn.com,Content Servers
+Socket error: [Errno 11001] getaddrinfo failed,qlivecdn.com,
+Socket error: [Errno 11001] getaddrinfo failed,2mdn.net,Content Servers
+Socket error: [Errno 11001] getaddrinfo failed,adnxs.com,Content Servers
+Socket error: [Errno 11001] getaddrinfo failed,googlemeet.com,Communication
+"SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'bluejeans.com'. (_ssl.c:1000)",bluejeans.com,Communication
+Socket error: [Errno 11004] getaddrinfo failed,rapidshare.com,File Sharing/Storage
+Socket error: [Errno 11001] getaddrinfo failed,voat.co,Forums/Community
+Socket error: [WinError 10061] No connection could be made because the target machine actively refused it,gamer.com,Gaming
+Socket error: [Errno 11001] getaddrinfo failed,steam.com,Gaming
+SSL error: [SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1000),cisco.com,Tech/Hardware
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",delta.com,Travel/Transportation
+"SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'googlecloud.com'. (_ssl.c:1000)",googlecloud.com,Tech/Services
+SSL error: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000),huawei.com,Tech/Hardware
+Socket error: [WinError 10061] No connection could be made because the target machine actively refused it,toshiba.com,Tech/Hardware
+SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1000),zlibrary.org,Reference
+"SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'broadway.com'. (_ssl.c:1000)",broadway.com,Entertainment
+Socket error: [WinError 10061] No connection could be made because the target machine actively refused it,filmcritic.com,Entertainment
+Socket error: [Errno 11001] getaddrinfo failed,flixster.com,Entertainment
+"SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'open.edu'. (_ssl.c:1000)",open.edu,Education
+Socket error: [Errno 11002] getaddrinfo failed,gearbest.com,Shopping/E-commerce
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",goldmansachs.com,Finance/Banking
+SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000),schwab.com,Finance/Banking
+Socket error: [WinError 10054] An existing connection was forcibly closed by the remote host,ameritrade.com,Finance/Banking
+SSL error: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000),vanguard.com,Finance/Banking
+SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000),coldwellbanker.com,Real Estate
+Socket error: [Errno 11001] getaddrinfo failed,rt.com,News/Media
+SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000),totaljobs.com,Jobs/Careers
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",suntrust.com,Finance/Banking
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",bbt.com,Finance/Banking
+Socket error: [Errno 11001] getaddrinfo failed,nhk.or.jp,News/Media
+Socket error: [Errno 11002] getaddrinfo failed,grooveshark.com,Entertainment
+SSL error: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000),barnesandnoble.com,Shopping/E-commerce
+"SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'myyearbook.com'. (_ssl.c:1000)",myyearbook.com,Social Media
+Socket error: [Errno 11001] getaddrinfo failed,,Social Media
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",futurenotes.com,Time Capsule Websites
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",lettertothefuture.com,Time Capsule Websites
+Socket error: [Errno 11001] getaddrinfo failed,postfuturo.com,Time Capsule Websites
+Socket error: [Errno 11001] getaddrinfo failed,memoriesinadvance.com,Time Capsule Websites
+Socket error: [Errno 11001] getaddrinfo failed,timepost.io,Time Capsule Websites
+SSL error: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000),future-self.com,Time Capsule Websites
+Socket error: [Errno 11001] getaddrinfo failed,futureletter.org,Time Capsule Websites
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",datadrop.com,Data Visualization and Infographics
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",dataisbeautiful.com,Data Visualization and Infographics
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",playlist.net,Curated Playlist Communities
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",escapethemysteryroom.com,Digital Escape Rooms
+SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000),onlineescapegames.com,Digital Escape Rooms
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",trapgame.com,Digital Escape Rooms
+Socket error: [Errno 11002] getaddrinfo failed,escapeops.com,Digital Escape Rooms
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",escaperoomz.com,Digital Escape Rooms
+Socket error: [Errno 11001] getaddrinfo failed,talktotransformer.net,AI Experimentation Platforms
+Socket error: [Errno 11001] getaddrinfo failed,sequentialtales.com,Interactive Storytelling
+Socket error: [Errno 11001] getaddrinfo failed,brainstructure.io,Digital Gardens
+Socket error: [Errno 11001] getaddrinfo failed,digitaljournal.io,Digital Gardens
+Socket error: [Errno 11001] getaddrinfo failed,obsidianflow.com,Digital Gardens
+Socket error: [Errno 11001] getaddrinfo failed,mindtree.io,Digital Gardens
+Socket error: [Errno 11001] getaddrinfo failed,atarimania.com,Obscure Game Archives
+Socket error: [Errno 11002] getaddrinfo failed,virtualnes.com,Obscure Game Archives
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",c64games.com,Obscure Game Archives
+SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000),virtualmemorials.com,Online Memorials
+Socket error: [Errno 11001] getaddrinfo failed,online-obituary.com,Online Memorials
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",foreverremembered.com,Online Memorials
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",digitaltombstones.com,Online Memorials
+"SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'digitalfarewell.com'. (_ssl.c:1000)",digitalfarewell.com,Online Memorials
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",memorialbook.com,Online Memorials
+Socket error: [Errno 11001] getaddrinfo failed,yoyonation.net,Hyper-Specific Forums
+"SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'marblecollector.com'. (_ssl.c:1000)",marblecollector.com,Hyper-Specific Forums
+SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000),petpeeps.com,Hyper-Specific Forums
+Socket error: [Errno 11001] getaddrinfo failed,campstovecommunity.com,Hyper-Specific Forums
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",thehappyplace.com,Oddly Satisfying
+Socket error: [Errno 11001] getaddrinfo failed,satisfying.media,Oddly Satisfying
+Socket error: [Errno 11001] getaddrinfo failed,visuallysatisfying.com,Oddly Satisfying
+SSL error: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000),looplooploop.com,Oddly Satisfying
+Socket error: [Errno 11001] getaddrinfo failed,oddlysatisfying.net,Oddly Satisfying
+Socket error: [Errno 11001] getaddrinfo failed,satisfyingvideos.net,Oddly Satisfying
+Socket error: [Errno 11001] getaddrinfo failed,chillzone.com,Oddly Satisfying
+SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1000),softwaves.net,Oddly Satisfying
+Socket error: [Errno 11001] getaddrinfo failed,aroundtheworldin80clicks.com,Virtual Travel and Exploration
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",journey360.com,Virtual Travel and Exploration
+Socket error: [Errno 11002] getaddrinfo failed,skyviewmap.com,Virtual Travel and Exploration
+SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000),viewatlas.com,Virtual Travel and Exploration
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",goglobes.com,Virtual Travel and Exploration
+Socket error: [WinError 10061] No connection could be made because the target machine actively refused it,sendtothefuture.com,Time Capsule Websites
+SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000),lettertomyfutureself.net,Time Capsule Websites
+Socket error: [Errno 11001] getaddrinfo failed,timetravelmail.com,Time Capsule Websites
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",capsuletime.com,Time Capsule Websites
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",latergram.me,Time Capsule Websites
+Socket error: [Errno 11002] getaddrinfo failed,distantfuture.com,Time Capsule Websites
+Socket error: [Errno 11001] getaddrinfo failed,futureme.email,Time Capsule Websites
+SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000),informationisbeautiful.net,Data Visualization and Infographics
+SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1000),coolfunfacts.com,Random Knowledge Generators
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",triviaplanet.com,Random Knowledge Generators
+Socket error: [Errno 11002] getaddrinfo failed,soundsgood.co,Curated Playlist Communities
+SSL error: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000),playlists.net,Curated Playlist Communities
+SSL error: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000),curateaudio.com,Curated Playlist Communities
+Socket error: [WinError 10061] No connection could be made because the target machine actively refused it,playlistmachinery.com,Curated Playlist Communities
+Socket error: [Errno 11001] getaddrinfo failed,escapeathome.co.uk,Digital Escape Rooms
+Socket error: [Errno 11001] getaddrinfo failed,mr-x.ca,Digital Escape Rooms
+Socket error: [Errno 11001] getaddrinfo failed,unlock.fun,Digital Escape Rooms
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",storynexus.com,Interactive Storytelling
+Socket error: [Errno 11001] getaddrinfo failed,public.digitalgardens.io,Digital Gardens
+Socket error: [Errno 11001] getaddrinfo failed,retro-gaming.online,Obscure Game Archives
+"SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'playdosgamesonline.com'. (_ssl.c:1000)",playdosgamesonline.com,Obscure Game Archives
+SSL error: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000),gonetoosoon.org,Online Memorials
+SSL error: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000),foreverinourhearts.net,Online Memorials
+"SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'paranormal-encounters.com'. (_ssl.c:1000)",paranormal-encounters.com,Paranormal and Mysteries
+SSL error: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000),theparanormalguide.com,Paranormal and Mysteries
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",unsolvedmysteries.com,Paranormal and Mysteries
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",handmadeology.com,Traditional Handicrafts
+SSL error: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000),motherofahubbard.com,Traditional Handicrafts
+Socket error: [Errno 11001] getaddrinfo failed,needleworkcrafts.info,Traditional Handicrafts
+Socket error: [Errno 11001] getaddrinfo failed,traditionalhandcrafts.org,Traditional Handicrafts
+Socket error: [Errno 11001] getaddrinfo failed,grannysneedle.com,Traditional Handicrafts
+Socket error: [Errno 11002] getaddrinfo failed,thereluctanthomesteader.com,Off-Grid Living
+Socket error: [WinError 10061] No connection could be made because the target machine actively refused it,offgridquest.com,Off-Grid Living
+Socket error: [Errno 11002] getaddrinfo failed,adrenalist.com,Extreme Sports
+SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000),adrenaline.com,Extreme Sports
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",basejumper.com,Extreme Sports
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",tigers.org,Rare Animal Conservation
+Socket error: [WinError 10061] No connection could be made because the target machine actively refused it,marineconservation.org,Rare Animal Conservation
+SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1000),rarespeciesfund.org,Rare Animal Conservation
+"SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'diy.org'. (_ssl.c:1000)",diy.org,Hobbies/Crafts
+SSL error: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1000),quiltmaker.com,Hobbies/Crafts
+SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000),thehistoryblog.com,History
+"SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'spruceeats.com'. (_ssl.c:1000)",spruceeats.com,Food/Cooking
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",diynetwork.com,DIY/Home Improvement
+"Socket error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",betterhomesandgardens.com,DIY/Home Improvement
+Socket error: [Errno 11001] getaddrinfo failed,beam.pro,Gaming
+"SSL error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'pregnancyandbaby.com'. (_ssl.c:1000)",pregnancyandbaby.com,Parenting
